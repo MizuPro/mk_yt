@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "notes": "Fitur: pilih tipe output MP4 (video) atau MP3 (audio-only 192 kbps). Perbaikan kecil UI & stabilitas.",
+  "version": "1.0.3",
+  "notes": "Tambah fitur 'Nama File (opsional)'. Kosongkan untuk pakai nama default dari judul video. Perbaikan updater & stabilitas.",
   "download_url": "https://raw.githubusercontent.com/MizuPro/mk_yt/main/app/mk_yt.exe",
   "sha256": ""
 }

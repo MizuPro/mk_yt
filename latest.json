@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "notes": "Tambah fitur 'Nama File (opsional)'. Kosongkan untuk pakai nama default dari judul video. Perbaikan updater & stabilitas.",
+  "version": "1.0.4",
+  "notes": "Update: Theme Switcher (Cyan Blue, Sunset Orange, Minimal Black) di header.",
   "download_url": "https://raw.githubusercontent.com/MizuPro/mk_yt/main/app/mk_yt.exe",
   "sha256": ""
 }

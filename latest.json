@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "- Perbaikan bug unduhan\n- UI cyan lebih konsisten",
-  "download_url": "https://raw.githubusercontent.com/MizuPro/mk_yt/main/mk_yt.exe",
+  "version": "1.0.2",
+  "notes": "Fitur: pilih tipe output MP4 (video) atau MP3 (audio-only 192 kbps). Perbaikan kecil UI & stabilitas.",
+  "download_url": "https://raw.githubusercontent.com/MizuPro/mk_yt/main/app/mk_yt.exe",
   "sha256": ""
 }

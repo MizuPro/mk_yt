@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "notes": "Remember Settings: theme, folder output, tipe output, kualitas video, dan custom name otomatis disimpan & dipulihkan saat aplikasi dibuka.",
-  "download_url": "https://raw.githubusercontent.com/MizuPro/mk_yt/main/app/mk_yt.exe",
-  "sha256": ""
+  "version": "1.0.7",
+  "notes": "Tambah Cancel + paketkan icon/logo",
+  "download_url": "https://.../releases/MKYT_1.0.7.zip",
+  "sha256": "HASH_ZIP"
 }
